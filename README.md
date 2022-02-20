@@ -1,6 +1,6 @@
 ### Hii, i'm Bailey 👋
 a kid just trying code and create cool things<br>
-[My Website!](https:/thecloudfactory.ml/)
+[My Website!](https://thecloudfactory.ml/)
 
 Currently working on a Hypixel Skyblock bot  [SkyblockBot](https://github.com/Cloudseyy/SkyblockBot)
 
